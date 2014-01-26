@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = BasicgemJs::VERSION
   spec.authors       = ["Aayish"]
   spec.email         = ["aayishshetty@gmail.com"]
-  spec.summary       = %q{Know the date and time}
+  spec.summary       = %q{Creating a test gem}
   spec.description   = %q{}
   spec.homepage      = ""
   spec.license       = "MIT"
